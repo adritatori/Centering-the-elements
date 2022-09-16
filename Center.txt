@@ -1,0 +1,9 @@
+Method one to center all the elements inside body. 
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+
+}
