@@ -32,3 +32,12 @@ When I had to draw something center of another element
   border: 2px solid #fff;
   transform: translate(-50%, -50%);
 }
+
+
+//centerint elements of body and html at the middle
+
+html,body{
+  display: grid;
+  height: 100%;
+  place-items: center;
+}
